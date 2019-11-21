@@ -1,0 +1,33 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .feed {
+    width: 400px;
+    height: 150px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .likes {
+    display: flex;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .likes button {
+    margin-left: 5px;
+  }
+  
+  .feedInput {
+    resize: none;
+  }
+  

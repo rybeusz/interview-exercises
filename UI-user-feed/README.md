@@ -11,3 +11,14 @@
 - After you complete the exercise, provide notes below on how your code can be ran whether it be by simply opening a index.html file or through an npm command
 
 ## Candidate Notes:
+no time to deal with timezone offset
+
+For run:
+npm install
+npm start
+
+open in browser adress:
+http://localhost:3000/
+
+or simply open:
+https://codesandbox.io/s/epic-neumann-t3olx?fontsize=14&hidenavigation=1&theme=dark
